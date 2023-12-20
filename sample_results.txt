@@ -1,0 +1,10 @@
+Hereford & South Herefordshire, 13420, C, 11230, L, 5030, LD, 2305, UKIP, 1504, G, 512, Ind
+Edinburgh East, 19230, L, 16420, C, 7429, LD, 3954, UKIP, 2395, G, 705, Ind
+Lancaster & Fleetwood, 15503, L, 14782C, 6592, LD, 3209, UKIP, 1893, G, 890, Ind
+Plymouth Sutton & Devonport, 13958, CO, 13312, L, 5198, LD, 2298, UKIP, 1988, G, 421, Ind
+Ceredigion, 14025, LD, 11205, C, 9052, L, 4920, UKIP, -1121, G, 579, Ind
+Burnley, 11325, L, 10764, C, 3052, LD, 2297, UKIP, 928, G, 431, Ind
+Loughborough, 20057, C, 18302, L, 5026, LD, 3076, UKIP, 2076, G, 599, Ind
+Batley & Spen 21347, L, 19402, C, 4891, LD, 2982, UKIP, 2197, G, 488, Ind
+Suffolk Coastal, 24219, C, 19237, L, 6839, LD, 3298, UKIP, 2198, G, 725, Ind
+Leeds East, 25487, L, 19234, C, 4390, LD, 3260, UKIP, 1980, G, 640, Ind
